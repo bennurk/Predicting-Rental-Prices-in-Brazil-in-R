@@ -13,3 +13,5 @@ evaluated by RMSE. R-Studio programming
 language is used to execute all the procedures.
 Keywords—Multiple Linear Regression, SVM,
 Random Forest, Airbnb, House Price, Brazil.
+
+Dataset: https://www.kaggle.com/code/arturlunardi/predicting-rental-prices-in-brazil
